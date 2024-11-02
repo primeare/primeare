@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=primeare&show_icons=true&theme=transparent&hide_border=true&hide_title=true">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primeare&hide_progress=true&hide_border=true&theme=transparent">
+</a>
+
 <!--
 **primeare/primeare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
